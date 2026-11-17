@@ -1,0 +1,28 @@
+{
+  "project": "Emotion Classification",
+  "labels": [
+    "joy",
+    "sadness",
+    "anger",
+    "fear",
+    "surprise",
+    "disgust"
+  ],
+  "models": [
+    "BiLSTM_Attention",
+    "LSTM",
+    "DistilBERT",
+    "GRU"
+  ],
+  "model_loading": {
+    "recurrent": "Load config.json, vocab.json, label_mapping.json and model.pth",
+    "distilbert": "Use AutoTokenizer.from_pretrained(model_dir) and AutoModelForSequenceClassification.from_pretrained(model_dir)"
+  },
+  "results": [
+    "model_comparison.csv",
+    "classification_report.csv",
+    "model_comparison.png",
+    "confusion_matrices.png",
+    "training_history.png"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "project": "Emotion Classification with Attention",
+  "source_notebook": "emotion-classification.ipynb",
+  "target_labels": [
+    "joy",
+    "sadness",
+    "anger",
+    "fear",
+    "surprise",
+    "disgust"
+  ],
+  "models_supported": [
+    "LSTM",
+    "GRU",
+    "BiLSTM_Attention",
+    "DistilBERT"
+  ],
+  "trained_weights_included": false,
+  "reason": "The uploaded notebook contains training code; exported model weights were not part of the uploaded files."
+}

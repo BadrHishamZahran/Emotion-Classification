@@ -1,0 +1,122 @@
+[
+  {
+    "text": "I got the job! I am so excited and proud of myself.",
+    "expected_emotion": "joy"
+  },
+  {
+    "text": "Thank you for always supporting me when things get difficult.",
+    "expected_emotion": "joy"
+  },
+  {
+    "text": "This is the best birthday surprise ever. I feel amazing!",
+    "expected_emotion": "joy"
+  },
+  {
+    "text": "I finally finished the project, and I couldn't be happier.",
+    "expected_emotion": "joy"
+  },
+  {
+    "text": "I love spending time with my family on weekends.",
+    "expected_emotion": "joy"
+  },
+  {
+    "text": "I miss my old friends and wish we could meet again.",
+    "expected_emotion": "sadness"
+  },
+  {
+    "text": "I feel so disappointed because I failed the exam.",
+    "expected_emotion": "sadness"
+  },
+  {
+    "text": "Nobody came to my birthday, and that really hurt.",
+    "expected_emotion": "sadness"
+  },
+  {
+    "text": "I regret what I said to her. I wish I could take it back.",
+    "expected_emotion": "sadness"
+  },
+  {
+    "text": "I lost someone very important to me, and nothing feels the same.",
+    "expected_emotion": "sadness"
+  },
+  {
+    "text": "I am so angry that you lied to me again!",
+    "expected_emotion": "anger"
+  },
+  {
+    "text": "This service is terrible, and I want to speak to the manager.",
+    "expected_emotion": "anger"
+  },
+  {
+    "text": "Stop interrupting me. I am tired of your disrespect.",
+    "expected_emotion": "anger"
+  },
+  {
+    "text": "They ignored every complaint and made the problem even worse.",
+    "expected_emotion": "anger"
+  },
+  {
+    "text": "I cannot believe you broke your promise again!",
+    "expected_emotion": "anger"
+  },
+  {
+    "text": "I am afraid something bad will happen during the storm.",
+    "expected_emotion": "fear"
+  },
+  {
+    "text": "I have an important interview tomorrow, and I am extremely nervous.",
+    "expected_emotion": "fear"
+  },
+  {
+    "text": "I heard a strange noise downstairs, and now I am scared.",
+    "expected_emotion": "fear"
+  },
+  {
+    "text": "What if I make a mistake and everyone laughs at me?",
+    "expected_emotion": "fear"
+  },
+  {
+    "text": "I do not feel safe walking alone in this dark street.",
+    "expected_emotion": "fear"
+  },
+  {
+    "text": "Wait, you mean the meeting was moved to today?",
+    "expected_emotion": "surprise"
+  },
+  {
+    "text": "How did you manage to solve that problem so quickly?",
+    "expected_emotion": "surprise"
+  },
+  {
+    "text": "I just realized that I have been using the wrong password all week.",
+    "expected_emotion": "surprise"
+  },
+  {
+    "text": "Really? I had no idea that she could speak five languages!",
+    "expected_emotion": "surprise"
+  },
+  {
+    "text": "Why would anyone choose to do something like that?",
+    "expected_emotion": "surprise"
+  },
+  {
+    "text": "The smell from the spoiled food is absolutely disgusting.",
+    "expected_emotion": "disgust"
+  },
+  {
+    "text": "That dirty kitchen made me feel sick.",
+    "expected_emotion": "disgust"
+  },
+  {
+    "text": "I cannot stand the sight of rotten meat.",
+    "expected_emotion": "disgust"
+  },
+  {
+    "text": "The bathroom was filthy, with trash all over the floor.",
+    "expected_emotion": "disgust"
+  },
+  {
+    "text": "That was the most revolting thing I have ever tasted.",
+    "expected_emotion": "disgust"
+  }
+]
